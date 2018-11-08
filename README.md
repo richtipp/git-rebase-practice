@@ -3,7 +3,7 @@ Repository for practicing git rebase
 
 ## Requirements
 
-1. 
+1. Ruby installed
 
 ## Running the app
 
